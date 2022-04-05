@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-I'm Haflidi
+I'm Haflidi always learning with passion, love to share my knowledge with others and help them thrive
+
+I'm interested in Cloud Architecture, Security and automation solutions that empowers the community.
 
 ---
+
+- 🏆 11+ Years of experience within IT from Hardware support to Enterprise Architecture and within
+- 📝 I'm blogging and sharing my thoughts at #Techegg https://techegg.com
+- 🏗️ Founder of [Microsoft Security Group Norway](https://www.meetup.com/Microsoft-Security-User-Group-Norway)
+- 💬 Ask me about things like Azure Architecture, Microsoft Security, Infrastructure as Code (Terraform, Bicep, ARM, PowerShell), DevOps and CyberSecurity.
+
+---
+### Certifications and Badges
 <p align="center">
  <a>
     <img src="https://user-images.githubusercontent.com/26624010/137772728-885894a4-74e9-475c-bc2c-bc00f413c950.png" width="100"> <img src="https://user-images.githubusercontent.com/26624010/137772479-cca8ef49-0e92-4992-94c0-8687344c9870.png" width="100">
@@ -31,12 +41,39 @@ Here are some ideas to get you started:
 -->
 
 ---
+### Please stay in touch
+
+<a href="https://twitter.com/haflidif" target="blank">
+ <img align="center" src="img/twitter.png" alt="haflidif" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/haflidif" target="blank"><img align="center" src="img/linkedin.png" alt="haflidif" height="40" width="40" /></a>
+<a href="https://sessionize.com/haflidif" target="blank"><img align="center" src="img/sessionize-avatar.png" alt="haflidif" height="40" width="40" /></a>
+
+---
+### Stats
 <p align="center">
   <a href="https://github.com/haflidif?tab=repositories">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=haflidif&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/haflidif?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=haflidif&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/haflidif?tab=repositories">
+    <img
+      align="center"
+      width="423"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=haflidif&theme=dark&show_icons=true&locale=en&layout=compact"         
     />
   </a>
 </p>
