@@ -7,7 +7,7 @@ I'm interested in Cloud Architecture, Security and automation solutions that emp
 ---
 
 - 🏆 11+ Years of experience within IT from Hardware support to Enterprise Architecture and within
-- 📝 I'm blogging and sharing my thoughts at #Techegg https://techegg.com
+- 📝 I'm blogging and sharing my thoughts at #Techegg https://techegg.net
 - 🏗️ Founder of [Microsoft Security Group Norway](https://www.meetup.com/Microsoft-Security-User-Group-Norway)
 - 💬 Ask me about things like Azure Architecture, Microsoft Security, Infrastructure as Code (Terraform, Bicep, ARM, PowerShell), DevOps and CyberSecurity.
 
