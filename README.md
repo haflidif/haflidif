@@ -5,7 +5,7 @@ I'm Haflidi always learning with passion, love to share my knowledge with others
 I'm interested in Cloud Architecture, Security and automation solutions that empowers the community.
 
 ---
-- :star: Microsoft Security MVP
+- <img src="https://user-images.githubusercontent.com/26624010/234815409-2ad53862-84a8-411e-96aa-2082bfc264a6.png" width="25"> Microsoft Security MVP
 - 🏆 11+ Years of experience within IT from Hardware support to complex enterprise architecture and within.
 - 📝 I'm blogging and sharing my thoughts at #AzureViking https://azureviking.com
 - 🏗️ Founder of [Microsoft Security User Group](https://www.meetup.com/Microsoft-Security-User-Group)
