@@ -7,7 +7,7 @@ I'm interested in Cloud Architecture, Security and automation solutions that emp
 ---
 - <img src="https://user-images.githubusercontent.com/26624010/234815409-2ad53862-84a8-411e-96aa-2082bfc264a6.png" width="23"> Microsoft Security MVP
 - 🏆 11+ Years of experience within IT from Hardware support to complex enterprise architecture and within.
-- 📝 I'm blogging and sharing my thoughts at #AzureViking https://azureviking.com
+- 📝 I'm blogging and sharing my thoughts at #AzureViking https://www.azureviking.com
 - 🏗️ Founder of [Microsoft Security User Group](https://www.meetup.com/Microsoft-Security-User-Group)
 - 💬 Ask me about things like Azure Architecture, Microsoft Security, Infrastructure as Code (Terraform, Bicep, ARM, PowerShell), DevOps and CyberSecurity.
 
