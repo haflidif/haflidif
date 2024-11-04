@@ -5,8 +5,9 @@ I'm Haflidi always learning with passion, love to share my knowledge with others
 I'm interested in Cloud Architecture, Security and automation solutions that empowers the community.
 
 ---
-- <img src="https://user-images.githubusercontent.com/26624010/234815409-2ad53862-84a8-411e-96aa-2082bfc264a6.png" width="23"> Microsoft Azure & Security MVP (Azure Infrastructure as Code & Cloud Security)
-- 🏆 11+ Years of experience within IT from Hardware support to complex enterprise architecture and within.
+- <img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width="23"> Senior Cloud Solution Architect at Microsoft
+- <img src="https://user-images.githubusercontent.com/26624010/234815409-2ad53862-84a8-411e-96aa-2082bfc264a6.png" width="23"> Former Microsoft Azure & Security MVP (Azure Infrastructure as Code & Cloud Security)
+- 🏆 13+ Years of experience within IT from Hardware support to complex enterprise architecture and within.
 - 📝 I'm blogging and sharing my thoughts at #AzureViking https://www.azureviking.com
 - 🏗️ Founder of [Microsoft Security User Group](https://www.meetup.com/Microsoft-Security-User-Group)
 - 💬 Ask me about things like Azure Architecture, Microsoft Security, Infrastructure as Code (Terraform, Bicep, ARM, PowerShell), DevOps and CyberSecurity.
