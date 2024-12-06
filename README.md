@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="banner" src="img/banner.png" width="850">
+</p>
 
 <h1 align=center>
   Welcome to Haflidi Fridthjofsson's (a.k.a The Azure Viking) Profile 
