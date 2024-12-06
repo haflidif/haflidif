@@ -61,6 +61,7 @@ I'm interested in Cloud Architecture, Security and automation solutions that emp
  </a>
 </p>
 
+#### [See more badges on Credly](https://www.credly.com/users/haflidif)
 ---
 ### Please stay in touch
 
