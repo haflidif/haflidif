@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/haflidif">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Haflidi%20Fridthjofsson-blue?style=for-the-badge&logo=Linkedin&logoColor=white/"></a>
+  <a href="https://azureviking.com">
+    <img alt="azureviking.com" title="AzureViking.com Blog" src="https://img.shields.io/badge/-AZUREVIKING.COM%20BLOG-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  <a href="https://bsky.app/profile/haflidi.azureviking.com">
+    <img alt="Bluesky" title="Bluesky" src="https://img.shields.io/twitter/follow/haflidif?color=lightblue&label=%40haflidi.azureviking.com&logo=bluesky&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/pwd9000-ML?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/haflidif?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Pwd9000-ML?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/haflidif?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 I'm Haflidi always learning with passion, love to share my knowledge with others and help them thrive
 
 I'm interested in Cloud Architecture, Security and automation solutions that empowers the community.
