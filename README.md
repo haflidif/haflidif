@@ -51,8 +51,8 @@ I'm interested in Cloud Architecture, Security and automation solutions that emp
 ---
 ### Please stay in touch
 
-<a href="https://twitter.com/haflidif" target="blank">
- <img align="center" src="img/twitter.png" alt="haflidif" height="40" width="40" /></a>
+<a href="https://bsky.app/profile/haflidi.azureviking.com" target="blank">
+ <img align="center" src="img/bluesky-color.svg" alt="haflidif" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/haflidif" target="blank"><img align="center" src="img/linkedin.png" alt="haflidif" height="40" width="40" /></a>
 <a href="https://sessionize.com/haflidif" target="blank"><img align="center" src="img/sessionize-avatar.png" alt="haflidif" height="40" width="40" /></a>
 
