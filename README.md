@@ -37,6 +37,7 @@ I'm interested in Cloud Architecture, Security and automation solutions that emp
 ### Certifications and Badges
 <p align="left">
  <a>
+   <img alt="CyberSecurityExpert" src="img/ms_cybersecurity_architect.png" width="100">
    <img alt="AzureSolutionArchitecht" style="float:right" src="https://user-images.githubusercontent.com/26624010/180080184-13ede935-05dd-400a-87f7-cedbbd6c6796.png" width="100">
    <img alt="EnterpriseExpert" src="https://user-images.githubusercontent.com/26624010/137772479-cca8ef49-0e92-4992-94c0-8687344c9870.png" width="100">
  </a>
